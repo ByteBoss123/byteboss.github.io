@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "project",
+    "section": "",
+    "text": "To be filled soon"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Myself",
+    "section": "",
+    "text": "Introduction\nHello Everybody! My name is Amarnath Reddy Ganta and welcome to my website!\nI finished my Bachelor of Technology in Computer Science and Engineering from GITAM University in Hyderabad, India. At this moment, I am doing my master’s in Data Analytics and Engineering at George Mason University. My career goals include gaining expertise in Big Data and Data analytics, enhancing my career prospects, and becoming well-versed with industry requirements in Big Data - one of the major areas of interest I acquired during my internship this year.\nI am versed with Windows OS. I have worked with Google Collab, Jupyter Notebook, Py Torch, Eclipse, and Visual Studio Code.\nI have worked on AWS and Natural Language Processing (NLP) Technology during my Undergraduate and internship (during my internship this year)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "byteboss.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nContent to be released shortly"
+  }
+]
